@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 ### Quality Analyst | Web Developer | Storyteller
 A specialist in Web Testing / Development with more than 1.5 years of experience in IT industry. A passion of mine is managing project work and solving problems for better business delivery.
 * 🌍  I'm based in Kanpur, India
+* 💼  I’m currently working at L&T Infotech Ltd.
 * ✉️  You can contact me at [nikhil.gupta5667@gmail.com](mailto:nikhil.gupta5667@gmail.com)
 * 🖥️  See my portfolio at [Jerry Codes](https://jerrycodes29.vercel.app/)
 * 🧠  I'm currently learning React & Next.js
-* 🤝  I'm open to collaborating on Full Stack Applications
+* 🤝  I'm open to collaborate on Full Stack Applications
+* 💬  Ask me about - Tech, Psychology, Books, Fitness, etc.
 
 ### Skills
 
