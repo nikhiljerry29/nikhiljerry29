@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 I'm Nikhil Gupta 
 ### Quality Analyst | Web Developer | Storyteller
-A specialist in Web Testing / Development with more than 1.5 years of experience in IT industry. A passion of mine is managing project work and solving problems for better business delivery.
+A specialist in Web Testing / Development with more than 1.8 years of experience in IT industry. A passion of mine is managing project work and solving problems for better business delivery.
 * 🌍  I'm based in Kanpur, India
 * 💼  I’m currently working at L&T Infotech Ltd.
 * ✉️  You can contact me at [nikhil.gupta5667@gmail.com](mailto:nikhil.gupta5667@gmail.com)
