@@ -19,7 +19,7 @@ A specialist in Web Testing / Development with more than 1.8 years of experience
 * 💼  I’m currently working at L&T Infotech Ltd.
 * ✉️  You can contact me at [nikhil.gupta5667@gmail.com](mailto:nikhil.gupta5667@gmail.com)
 * 🖥️  See my portfolio at [Jerry Codes](https://jerrycodes29.vercel.app/)
-* 🧠  I'm currently learning React & Next.js
+* 🧠  I'm currently learning [Data Structures & Algorithms with Java](https://github.com/nikhiljerry29/Data-Stuctures-And-Algorithms)
 * 🤝  I'm open to collaborate on Full Stack Applications
 * 💬  Ask me about - Tech, Psychology, Books, Fitness, etc.
 
